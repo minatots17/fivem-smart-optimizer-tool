@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/minatots17/fivem-smart-optimizer-tool/releases/download/v1.0.0/FiveM_Smart_Optimizer_Tool_by_Jin_Guillen.exe",
-  "notes": "Initial release."
+  "version": "1.0.1",
+  "download_url": "https://github.com/minatots17/fivem-smart-optimizer-tool/releases/download/v1.0.1/FiveM_Smart_Optimizer_Tool_by_Jin_Guillen.exe",
+  "notes": "Fixed launcher so the app opens without showing a CMD window."
 }
